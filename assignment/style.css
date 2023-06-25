@@ -1,0 +1,30 @@
+header{
+    background-color:indianred;
+}
+h2{
+    color:snow;
+    background-color:palevioletred; 
+    text-align: center;
+    padding: 5px;
+}
+img{
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h3{
+    color:azure; 
+    background-color:mediumslateblue;
+    text-align: center;
+    padding: 10px;
+}
+#tesla{
+    border-style: inset;
+    border-width: 5px;
+    border-color: ghostwhite;
+    border-radius: 15px;
+    margin: 5%;
+    padding: 25px;
+}
